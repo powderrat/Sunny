@@ -1,5 +1,5 @@
 # Sunny
-Inspired by the flash game SonnyThe deliverables would be a demo that has the core systems that would be in the full game. The demo should contain combat, main hub, items, inventory management, leveling / skills, enemies. 
+Inspired by the flash game Sonny, the deliverables would be a demo that has the core systems that would be in the full game. The demo should contain combat, main hub, items, inventory management, leveling / skills, enemies. 
 
 ### Combat
 The combat will be turn-based, one playable character, 2~3 possible enemies, click on an enemy to see your equipped skills and click on the icon to use it. Click on yourself for healing spells/using items/defend.
@@ -15,3 +15,11 @@ My inventory will probably look very similar to Sonny2 without the middle panel.
 
 ### Leveling / Skills
  The demo will probably have 3 skills with animations and effects but as mentioned above 
+
+### UML
+![Sunny UML Diagram](Renders+UML/SunnyUML)
+
+### Renders 
+![Main Hub](Renders+UML/Main_Hub_Render)
+
+![Mansion](Renders+UML/Mansion_Fight_Render)
