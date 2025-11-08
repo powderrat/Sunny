@@ -20,6 +20,7 @@ My inventory will probably look very similar to Sonny2 without the middle panel.
 ![Sunny UML Diagram](Renders+UML/SunnyUML.png)
 
 ### Renders 
+### Main Hub
 ![Main Hub](Renders+UML/Main_Hub_Render.png)
-
+### Story Fight
 ![Mansion](Renders+UML/Mansion_Fight_Render.png)
