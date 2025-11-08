@@ -17,9 +17,9 @@ My inventory will probably look very similar to Sonny2 without the middle panel.
  The demo will probably have 3 skills with animations and effects but as mentioned above 
 
 ### UML
-![Sunny UML Diagram](Renders+UML/SunnyUML)
+![Sunny UML Diagram](Renders+UML/SunnyUML.png)
 
 ### Renders 
-![Main Hub](Renders+UML/Main_Hub_Render)
+![Main Hub](Renders+UML/Main_Hub_Render.png)
 
-![Mansion](Renders+UML/Mansion_Fight_Render)
+![Mansion](Renders+UML/Mansion_Fight_Render.png)
